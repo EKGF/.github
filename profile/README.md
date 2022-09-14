@@ -2,6 +2,8 @@
 
 See https://ekgf.org
 
+![quadrant](quadrants.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
