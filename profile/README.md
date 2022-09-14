@@ -3,7 +3,7 @@
 See https://ekgf.org
 
 <div markdown>
-  <img src="quadrant.jpg" width="500" height="500" style="object-fit: cover;"/>
+  <img src="../profile/quadrant.jpg" width="500" height="500"/>
 </div>
 
 <!--
