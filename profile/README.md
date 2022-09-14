@@ -2,7 +2,9 @@
 
 See https://ekgf.org
 
-![quadrant](quadrants.jpg)
+<div markdown>
+  <img src="quadrant.jpg" width="500" height="500" style="object-fit: cover;"/>
+</div>
 
 <!--
 
